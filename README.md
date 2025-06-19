@@ -6,9 +6,6 @@ Une application web de gestion de tâches intelligente et moderne, conçue pour 
 
 **[➡️ Accéder à la Démo Live](https://aurelien-d.github.io/ToDoList-IA/)**
 
-![Screenshot de TodoList IA](https://i.ibb.co/L5T4v9S/Todolist-IA.webp)
-*(N'hésitez pas à remplacer ce screenshot par un GIF animé pour une présentation encore plus dynamique !)*
-
 ## 🚀 À propos du projet
 
 Ce projet est une réinterprétation ambitieuse de la "To-Do List" classique. L'objectif était de créer une expérience utilisateur complète, intégrant non seulement les fonctionnalités de base d'un gestionnaire de tâches, mais aussi des outils avancés comme un tableau de bord analytique, des alertes intelligentes et un assistant IA, le tout dans une interface responsive et agréable à utiliser.
